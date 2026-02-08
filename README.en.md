@@ -4,7 +4,7 @@
 
 Spring Festival AI skills marketplace — give your AI assistant some holiday spirit!
 
-Claude Code plugin, versioned by zodiac year. Current version: **2026.5.2 Year of the Horse 🐴**
+Claude Code plugin, versioned by zodiac year. Current version: **2026.5.3 Year of the Horse 🐴**
 
 [中文](README.md) | English
 
