@@ -1,0 +1,64 @@
+{
+  "year": 2026,
+  "zodiac": "马",
+  "zodiac_en": "horse",
+  "pun_pairs": [
+    { "original": "马", "pun": "码", "context": "编程/代码", "note": "码 = code, 马 = horse, both mǎ" },
+    { "original": "马力", "pun": "码力", "context": "性能/算力", "note": "horsepower → code power" },
+    { "original": "马到成功", "pun": "码到成功", "context": "上线/部署", "note": "success on arrival → code ships successfully" },
+    { "original": "一马当先", "pun": "一码当先", "context": "技术领先", "note": "take the lead → lead with code" },
+    { "original": "马不停蹄", "pun": "码不停蹄", "context": "加班/赶工", "note": "non-stop → coding non-stop" },
+    { "original": "万马奔腾", "pun": "万码奔腾", "context": "高并发/多线程", "note": "galloping horses → racing code" },
+    { "original": "快马加鞭", "pun": "快码加鞭", "context": "加速开发", "note": "spur the horse → speed up coding" },
+    { "original": "一马平川", "pun": "一码平川", "context": "重构/简化", "note": "flat plain → clean codebase" },
+    { "original": "策马奔腾", "pun": "策码奔腾", "context": "冲刺/发版", "note": "gallop → sprint release" },
+    { "original": "马首是瞻", "pun": "码首是瞻", "context": "代码规范", "note": "follow the lead → follow the code standard" },
+    { "original": "千里马", "pun": "千里码", "context": "优秀代码", "note": "thousand-mile horse → thousand-mile code" },
+    { "original": "伯乐", "pun": "伯乐", "context": "code reviewer", "note": "伯乐识千里马 → reviewer spots great code" },
+    { "original": "马上", "pun": "马上", "context": "立刻/immediately", "note": "马上 literally = on horseback = immediately" },
+    { "original": "马虎", "pun": "马虎", "context": "careless bug", "note": "马虎 = careless, perfect for bug descriptions" },
+    { "original": "马后炮", "pun": "马后炮", "context": "事后诸葛亮", "note": "hindsight, post-mortem" },
+    { "original": "stable", "pun": "stable", "context": "双关：马厩/稳定版", "note": "English pun: horse stable = stable release" }
+  ],
+  "examples": {
+    "code": [
+      { "name": "horsepower()", "pun": "码力全开", "desc": "性能优化函数" },
+      { "name": "gallopDeploy()", "pun": "策码奔腾", "desc": "快速部署" },
+      { "name": "STABLE_RELEASE", "pun": "马厩出品=稳定版", "desc": "英文双关：stable" },
+      { "name": "mustang.run()", "pun": "野马狂奔", "desc": "异步任务执行" },
+      { "name": "raceCondition()", "pun": "万马奔腾", "desc": "竞态检测，字面意义的 race" },
+      { "name": "jockey(task)", "pun": "驾驭任务", "desc": "任务调度器" },
+      { "name": "trot()", "pun": "小跑", "desc": "轻量级定时任务" },
+      { "name": "isCareless()", "pun": "马虎检测", "desc": "粗心 bug 检查" }
+    ],
+    "commit": [
+      { "msg": "🐴 feat: 码到成功 — add new feature", "pun": "马到成功" },
+      { "msg": "🐴 fix: 别马虎 — fix careless typo", "pun": "马虎" },
+      { "msg": "🐴 perf: 码力全开 — optimize query speed", "pun": "马力全开" },
+      { "msg": "🐴 refactor: 一码平川 — flatten nested logic", "pun": "一马平川" },
+      { "msg": "🐴 hotfix: 快码加鞭 — urgent production fix", "pun": "快马加鞭" },
+      { "msg": "🐴 chore: 马不停蹄 — update dependencies", "pun": "马不停蹄" },
+      { "msg": "🐴 release: stable — ship v2026.3.0 from the 马厩", "pun": "stable/马厩" },
+      { "msg": "🐴 docs: 千里码 — document the long journey", "pun": "千里马" }
+    ],
+    "slogan": [
+      { "text": "码到成功，一码当先！", "pun": "马到成功 + 一马当先" },
+      { "text": "码力全开，Bug 退散！", "pun": "马力全开" },
+      { "text": "千里码行始于 git init", "pun": "千里之行始于足下" },
+      { "text": "好马配好码，马年代码全优雅", "pun": "好马配好鞍" },
+      { "text": "万码奔腾，并发无敌", "pun": "万马奔腾" },
+      { "text": "不做马后炮，做马前卒", "pun": "马后炮 vs 马前卒" },
+      { "text": "人生苦短，快码加鞭", "pun": "快马加鞭 + life is short" }
+    ],
+    "chat": [
+      { "text": "今天 coding 状态：码力全开 🐴", "pun": "马力/码力" },
+      { "text": "这个 bug 太马虎了吧，谁写的！（是我）", "pun": "马虎" },
+      { "text": "别催了，我在码不停蹄地干呢！", "pun": "马不停蹄/码不停蹄" },
+      { "text": "今天的 PR 一码平川，全部通过！", "pun": "一马平川/一码平川" },
+      { "text": "领导说马上上线，我说：马上就马上，别催马 🐴", "pun": "马上" },
+      { "text": "这段代码写得不错，真是千里码啊！", "pun": "千里马/千里码" },
+      { "text": "Review 你的代码，我就是你的伯乐 🧐", "pun": "伯乐识千里马" },
+      { "text": "stable release 从马厩里出来了！🐴📦", "pun": "stable 双关" }
+    ]
+  }
+}

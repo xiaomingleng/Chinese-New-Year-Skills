@@ -1,0 +1,225 @@
+{
+  "year": 2026,
+  "zodiac": "马",
+  "zodiac_en": "horse",
+  "gala_name": "2026年中央广播电视总台春节联欢晚会",
+  "gala_date": "2026-02-16",
+  "start_time": "20:00",
+  "end_time": "00:30",
+  "source": "非官方节目单，基于网络公开信息整理，仅供参考",
+  "chapters": [
+    { "name": "马年贺岁·万象更新", "start": "20:00", "end": "21:00" },
+    { "name": "文脉续章·国风雅韵", "start": "21:00", "end": "22:15" },
+    { "name": "科技兴邦·山河共欢", "start": "22:15", "end": "23:30" },
+    { "name": "家国暖心·团圆时刻", "start": "23:30", "end": "00:30" }
+  ],
+  "programs": [
+    {
+      "order": 1,
+      "time": "20:00",
+      "chapter": 1,
+      "name": "压岁钱",
+      "type": "歌舞",
+      "performers": ["凤凰传奇", "张杰", "毛不易", "白鹿", "沙溢"],
+      "description": "开场歌舞"
+    },
+    {
+      "order": 2,
+      "time": "20:12",
+      "chapter": 1,
+      "name": "马赋",
+      "type": "朗诵",
+      "performers": ["张一一", "撒贝宁", "马凡舒"],
+      "description": "主持人朗诵"
+    },
+    {
+      "order": 3,
+      "time": "20:22",
+      "chapter": 1,
+      "name": "AI合伙人",
+      "type": "小品",
+      "performers": ["沈腾", "马丽", "艾伦", "常远"],
+      "description": "语言类节目"
+    },
+    {
+      "order": 4,
+      "time": "20:37",
+      "chapter": 1,
+      "name": "小家年年",
+      "type": "歌曲",
+      "performers": [],
+      "description": "融入苏州评弹元素"
+    },
+    {
+      "order": 5,
+      "time": "20:47",
+      "chapter": 1,
+      "name": "马到成功",
+      "type": "武术",
+      "performers": ["赵文卓"],
+      "description": "武术表演"
+    },
+    {
+      "order": 6,
+      "time": "21:00",
+      "chapter": 2,
+      "name": "贺花神",
+      "type": "创意秀",
+      "performers": [],
+      "description": "歌咏创意秀，AI生成影像+舞台表演"
+    },
+    {
+      "order": 7,
+      "time": "21:15",
+      "chapter": 2,
+      "name": "丝路古韵",
+      "type": "舞蹈",
+      "performers": [],
+      "description": "清华美术学院教授常沙娜担任艺术顾问"
+    },
+    {
+      "order": 8,
+      "time": "21:30",
+      "chapter": 2,
+      "name": "九州戏韵",
+      "type": "戏曲",
+      "performers": [],
+      "description": "京剧、评剧、越剧、粤剧、豫剧联唱"
+    },
+    {
+      "order": 9,
+      "time": "21:45",
+      "chapter": 2,
+      "name": "李·王·张·孔",
+      "type": "歌曲",
+      "performers": ["李沁", "王安宇", "张杰", "孔东东"],
+      "description": "姓氏主题歌曲联唱"
+    },
+    {
+      "order": 10,
+      "time": "22:00",
+      "chapter": 2,
+      "name": "指鹿为马",
+      "type": "脱口秀",
+      "performers": ["白鹿", "马思纯", "李雪琴", "张宇识"],
+      "description": "脱口秀节目"
+    },
+    {
+      "order": 11,
+      "time": "22:15",
+      "chapter": 3,
+      "name": "冰雪暖世界",
+      "type": "歌舞",
+      "performers": ["王赫野", "宋佳"],
+      "description": "哈尔滨分会场"
+    },
+    {
+      "order": 12,
+      "time": "22:25",
+      "chapter": 3,
+      "name": "丝路欢歌",
+      "type": "歌舞",
+      "performers": ["伊一", "张雪迎"],
+      "description": "义乌分会场"
+    },
+    {
+      "order": 13,
+      "time": "22:35",
+      "chapter": 3,
+      "name": "量子飞跃",
+      "type": "舞蹈",
+      "performers": ["韩再芬", "许嵩", "陈晓"],
+      "description": "合肥分会场，舞蹈+戏曲融合"
+    },
+    {
+      "order": 14,
+      "time": "22:45",
+      "chapter": 3,
+      "name": "一江清水",
+      "type": "歌舞",
+      "performers": ["谭松韵", "罗云熙"],
+      "description": "宜宾分会场"
+    },
+    {
+      "order": 15,
+      "time": "22:55",
+      "chapter": 3,
+      "name": "见证骐骥",
+      "type": "魔术",
+      "performers": ["邓男子", "柳岩"],
+      "description": "魔术表演"
+    },
+    {
+      "order": 16,
+      "time": "23:10",
+      "chapter": 3,
+      "name": "和美乡村",
+      "type": "歌曲",
+      "performers": ["刘宇宁", "刘洋洋"],
+      "description": "歌曲演唱"
+    },
+    {
+      "order": 17,
+      "time": "23:20",
+      "chapter": 3,
+      "name": "看见2026",
+      "type": "特别节目",
+      "performers": ["雷军", "许知远"],
+      "description": "特别节目"
+    },
+    {
+      "order": 18,
+      "time": "23:30",
+      "chapter": 4,
+      "name": "村writer",
+      "type": "小品",
+      "performers": ["秦海璐", "辛柏青", "田曦薇"],
+      "description": "语言类节目"
+    },
+    {
+      "order": 19,
+      "time": "23:42",
+      "chapter": 4,
+      "name": "团圆饭",
+      "type": "歌曲",
+      "performers": ["苏有朋", "温岚"],
+      "description": "港澳台歌手联唱"
+    },
+    {
+      "order": 20,
+      "time": "23:52",
+      "chapter": 4,
+      "name": "写给故乡的信",
+      "type": "朗诵",
+      "performers": ["胡歌", "赵丽颖"],
+      "description": "朗诵，援疆干部代表参与"
+    },
+    {
+      "order": 21,
+      "time": "00:00",
+      "chapter": 4,
+      "name": "龙腾四海",
+      "type": "焰火秀",
+      "performers": [],
+      "description": "零点焰火秀，四地联动"
+    },
+    {
+      "order": 22,
+      "time": "00:08",
+      "chapter": 4,
+      "name": "新的春天",
+      "type": "歌舞",
+      "performers": ["阎维文", "雷佳"],
+      "description": "青年代表参与"
+    },
+    {
+      "order": 23,
+      "time": "00:18",
+      "chapter": 4,
+      "name": "难忘今宵·2026",
+      "type": "歌舞",
+      "performers": ["全体演员"],
+      "description": "压轴合唱，春晚传统结束曲目"
+    }
+  ]
+}

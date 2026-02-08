@@ -1,0 +1,11 @@
+{
+  "name": "chinese-new-year-skills",
+  "description": "Spring Festival skills for AI agents — greetings, gala, countdown, WeChat messages, pun generator, and commit blessings",
+  "version": "2026.5.2",
+  "author": {
+    "name": "XiaomingL"
+  },
+  "repository": "https://github.com/xiaomingleng/Chinese-New-Year-Skills.git",
+  "license": "MIT",
+  "keywords": ["chinese-new-year", "spring-festival", "zodiac", "greetings", "gala"]
+}

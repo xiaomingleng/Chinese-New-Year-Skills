@@ -1,0 +1,15 @@
+{
+  "name": "chinese-new-year-skills",
+  "description": "Spring Festival skills marketplace",
+  "owner": {
+    "name": "XiaomingL"
+  },
+  "plugins": [
+    {
+      "name": "chinese-new-year-skills",
+      "description": "Spring Festival skills for AI agents — greetings, gala, countdown, WeChat messages, pun generator, and commit blessings",
+      "version": "2026.5.2",
+      "source": "./"
+    }
+  ]
+}

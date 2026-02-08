@@ -1,0 +1,21 @@
+{
+  "cycle": [
+    { "branch": "子", "animal": "鼠", "animal_en": "rat" },
+    { "branch": "丑", "animal": "牛", "animal_en": "ox" },
+    { "branch": "寅", "animal": "虎", "animal_en": "tiger" },
+    { "branch": "卯", "animal": "兔", "animal_en": "rabbit" },
+    { "branch": "辰", "animal": "龙", "animal_en": "dragon" },
+    { "branch": "巳", "animal": "蛇", "animal_en": "snake" },
+    { "branch": "午", "animal": "马", "animal_en": "horse" },
+    { "branch": "未", "animal": "羊", "animal_en": "goat" },
+    { "branch": "申", "animal": "猴", "animal_en": "monkey" },
+    { "branch": "酉", "animal": "鸡", "animal_en": "rooster" },
+    { "branch": "戌", "animal": "狗", "animal_en": "dog" },
+    { "branch": "亥", "animal": "猪", "animal_en": "pig" }
+  ],
+  "upcoming": {
+    "2026": { "zodiac": "horse", "zodiac_cn": "马", "lunar_new_year": "2026-02-17" },
+    "2027": { "zodiac": "goat", "zodiac_cn": "羊", "lunar_new_year": "2027-02-06" },
+    "2028": { "zodiac": "monkey", "zodiac_cn": "猴", "lunar_new_year": "2028-01-26" }
+  }
+}
