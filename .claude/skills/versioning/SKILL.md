@@ -17,9 +17,11 @@ description: Use when making changes to this plugin's skills, data, or configura
 
 ## Files to Update
 
-On every version bump, update the `version` field in both:
-1. `.claude-plugin/plugin.json`
-2. `.claude-plugin/marketplace.json` (under `plugins[0].version`)
+On every version bump, update the `version` field in all of these files:
+1. `.claude-plugin/plugin.json` — update `version` field
+2. `.claude-plugin/marketplace.json` — update `plugins[0].version` field
+3. `README.md` — update version in "当前版本：**X.X.X 马年 🐴**" line
+4. `README.en.md` — update version in "Current version: **X.X.X Year of the Horse 🐴**" line
 
 ## Rules
 
