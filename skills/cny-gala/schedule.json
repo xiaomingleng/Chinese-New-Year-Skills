@@ -5,221 +5,396 @@
   "gala_name": "2026年中央广播电视总台春节联欢晚会",
   "gala_date": "2026-02-16",
   "start_time": "20:00",
-  "end_time": "00:30",
-  "source": "非官方节目单，基于网络公开信息整理，仅供参考",
-  "chapters": [
-    { "name": "马年贺岁·万象更新", "start": "20:00", "end": "21:00" },
-    { "name": "文脉续章·国风雅韵", "start": "21:00", "end": "22:15" },
-    { "name": "科技兴邦·山河共欢", "start": "22:15", "end": "23:30" },
-    { "name": "家国暖心·团圆时刻", "start": "23:30", "end": "00:30" }
-  ],
+  "source": "中央广播电视总台官方节目单",
+  "note": "节目按实际播出顺序排列，主会场与分会场节目穿插进行",
   "programs": [
     {
       "order": 1,
-      "time": "20:00",
-      "chapter": 1,
-      "name": "压岁钱",
-      "type": "歌舞",
-      "performers": ["凤凰传奇", "张杰", "毛不易", "白鹿", "沙溢"],
-      "description": "开场歌舞"
+      "venue": "主会场",
+      "type": "开场表演",
+      "name": "马上有奇迹",
+      "performers": ["米雪", "许娣", "王劲松", "常远", "艾伦", "白宇帆", "丁真珍珠"],
+      "lead_musicians": ["齐·宝力高", "于红梅", "陈军", "秦立巍", "黎雨荷"],
+      "lead_dancers": ["陈冠华", "金付译晴", "刘滨荣", "刘芳洲"]
     },
     {
       "order": 2,
-      "time": "20:12",
-      "chapter": 1,
-      "name": "马赋",
-      "type": "朗诵",
-      "performers": ["张一一", "撒贝宁", "马凡舒"],
-      "description": "主持人朗诵"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "立春",
+      "performers": ["周慧敏", "刘敏涛", "梁咏琪", "秦海璐", "薛凯琪", "张钧甯", "姜妍", "热依扎", "刘惜君", "希林娜依·高"]
     },
     {
       "order": 3,
-      "time": "20:22",
-      "chapter": 1,
-      "name": "AI合伙人",
+      "venue": "主会场",
       "type": "小品",
-      "performers": ["沈腾", "马丽", "艾伦", "常远"],
-      "description": "语言类节目"
+      "name": "奶奶的最爱",
+      "performers": ["蔡明", "王天放", "松延动力"]
     },
     {
       "order": 4,
-      "time": "20:37",
-      "chapter": 1,
-      "name": "小家年年",
-      "type": "歌曲",
-      "performers": [],
-      "description": "融入苏州评弹元素"
+      "venue": "主会场",
+      "type": "武术",
+      "name": "武BOT",
+      "performers": ["宇树科技", "河南塔沟武术学校"]
     },
     {
       "order": 5,
-      "time": "20:47",
-      "chapter": 1,
-      "name": "马到成功",
-      "type": "武术",
-      "performers": ["赵文卓"],
-      "description": "武术表演"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "智造未来",
+      "performers": ["陈小春", "言承旭", "罗嘉豪", "易烊千玺"],
+      "special_performers": ["魔法原子"]
     },
     {
       "order": 6,
-      "time": "21:00",
-      "chapter": 2,
+      "venue": "主会场",
+      "type": "歌咏创意秀",
       "name": "贺花神",
-      "type": "创意秀",
-      "performers": [],
-      "description": "歌咏创意秀，AI生成影像+舞台表演"
+      "performers": ["宁理", "胡兵", "刘钧", "祖峰", "余皑磊", "王阳", "秦岚", "刘学义", "唐诗逸", "李沁", "李云霄", "王楚然"],
+      "choir": ["北京爱乐合唱团"]
     },
     {
       "order": 7,
-      "time": "21:15",
-      "chapter": 2,
-      "name": "丝路古韵",
-      "type": "舞蹈",
-      "performers": [],
-      "description": "清华美术学院教授常沙娜担任艺术顾问"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "闪耀动起来",
+      "performers": ["郭富城", "王一博"]
     },
     {
       "order": 8,
-      "time": "21:30",
-      "chapter": 2,
-      "name": "九州戏韵",
-      "type": "戏曲",
-      "performers": [],
-      "description": "京剧、评剧、越剧、粤剧、豫剧联唱"
+      "venue": "主会场",
+      "type": "对口白话",
+      "name": "谁的菜",
+      "performers": ["徐浩伦", "谭湘文"]
     },
     {
       "order": 9,
-      "time": "21:45",
-      "chapter": 2,
-      "name": "李·王·张·孔",
-      "type": "歌曲",
-      "performers": ["李沁", "王安宇", "张杰", "孔东东"],
-      "description": "姓氏主题歌曲联唱"
+      "venue": "四川宜宾分会场",
+      "type": "歌舞",
+      "name": "立上游",
+      "performers": ["魏翔", "张歆艺", "张靓颖", "罗云熙", "张含韵", "谭松韵"],
+      "dancers": ["迪丽热巴"],
+      "special_performers": ["李子柒", "此沙"],
+      "opera_narration": ["赵思雅"]
     },
     {
       "order": 10,
-      "time": "22:00",
-      "chapter": 2,
-      "name": "指鹿为马",
-      "type": "脱口秀",
-      "performers": ["白鹿", "马思纯", "李雪琴", "张宇识"],
-      "description": "脱口秀节目"
+      "venue": "主会场",
+      "type": "舞蹈",
+      "name": "丝路古韵",
+      "art_advisor": ["常沙娜"],
+      "lead_dancers": ["非路热·伊力亚尔", "李淼"],
+      "performers": ["新疆艺术剧院歌舞团", "新疆师范大学新疆艺术学院", "新疆新旅演艺舞团"]
     },
     {
       "order": 11,
-      "time": "22:15",
-      "chapter": 3,
-      "name": "冰雪暖世界",
-      "type": "歌舞",
-      "performers": ["王赫野", "宋佳"],
-      "description": "哈尔滨分会场"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "吉量",
+      "performers": ["周深"],
+      "special_performers": ["贵州省黔东南州「贵州村T」表演队"]
     },
     {
       "order": 12,
-      "time": "22:25",
-      "chapter": 3,
-      "name": "丝路欢歌",
-      "type": "歌舞",
-      "performers": ["伊一", "张雪迎"],
-      "description": "义乌分会场"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "来晒秋",
+      "performers": ["凤凰传奇", "宁夏回族自治区中卫市中宁县大战场镇农民合唱团", "全国各地「三农」工作者代表"]
     },
     {
       "order": 13,
-      "time": "22:35",
-      "chapter": 3,
-      "name": "量子飞跃",
-      "type": "舞蹈",
-      "performers": ["韩再芬", "许嵩", "陈晓"],
-      "description": "合肥分会场，舞蹈+戏曲融合"
+      "venue": "主会场",
+      "type": "喜剧短剧",
+      "name": "你准喜欢",
+      "performers": ["张小婉", "周铁男", "常诚", "张京", "姚尧", "陈宣佑", "李征", "董剑文", "杨凯", "许沁", "李源澈"]
     },
     {
       "order": 14,
-      "time": "22:45",
-      "chapter": 3,
-      "name": "一江清水",
-      "type": "歌舞",
-      "performers": ["谭松韵", "罗云熙"],
-      "description": "宜宾分会场"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "人间共鸣",
+      "performers": ["李健"]
     },
     {
       "order": 15,
-      "time": "22:55",
-      "chapter": 3,
-      "name": "见证骐骥",
-      "type": "魔术",
-      "performers": ["邓男子", "柳岩"],
-      "description": "魔术表演"
+      "venue": "浙江义乌分会场",
+      "type": "歌舞",
+      "name": "世界义乌中国年",
+      "performers": ["成龙", "Lionel Richie (美国)"],
+      "dancers": ["朱洁静", "周晓辉"],
+      "special_performers": ["吴樾", "刘烨", "毛晓彤", "张云龙", "张若昀", "蔡文静", "章若楠"]
     },
     {
       "order": 16,
-      "time": "23:10",
-      "chapter": 3,
-      "name": "和美乡村",
+      "venue": "浙江义乌分会场",
       "type": "歌曲",
-      "performers": ["刘宇宁", "刘洋洋"],
-      "description": "歌曲演唱"
+      "name": "奔腾的海骝马",
+      "performers": ["乌日娜", "阿如那", "内蒙古自治区乌兰牧骑表演团队"]
     },
     {
       "order": 17,
-      "time": "23:20",
-      "chapter": 3,
-      "name": "看见2026",
-      "type": "特别节目",
-      "performers": ["雷军", "许知远"],
-      "description": "特别节目"
+      "venue": "浙江义乌分会场",
+      "type": "互动歌曲",
+      "name": "手到福来",
+      "performers": ["梁家辉", "刘涛", "张新成"],
+      "special_guests": ["吴京", "于洋", "熊大"]
     },
     {
       "order": 18,
-      "time": "23:30",
-      "chapter": 4,
-      "name": "村writer",
-      "type": "小品",
-      "performers": ["秦海璐", "辛柏青", "田曦薇"],
-      "description": "语言类节目"
+      "venue": "浙江义乌分会场",
+      "type": "喜剧短剧",
+      "name": "血压计",
+      "performers": ["郭江涛", "余钦南", "孙超"]
     },
     {
       "order": 19,
-      "time": "23:42",
-      "chapter": 4,
-      "name": "团圆饭",
-      "type": "歌曲",
-      "performers": ["苏有朋", "温岚"],
-      "description": "港澳台歌手联唱"
+      "venue": "浙江义乌分会场",
+      "type": "舞蹈",
+      "name": "喜雨",
+      "lead_dancer": ["孟庆旸"],
+      "performers": ["浙江音乐学院"]
     },
     {
       "order": 20,
-      "time": "23:52",
-      "chapter": 4,
-      "name": "写给故乡的信",
-      "type": "朗诵",
-      "performers": ["胡歌", "赵丽颖"],
-      "description": "朗诵，援疆干部代表参与"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "妈妈有座电影院",
+      "art_director": ["张艺谋"],
+      "performers": ["邓超"],
+      "special_performers": ["迟蓬"]
     },
     {
       "order": 21,
-      "time": "00:00",
-      "chapter": 4,
-      "name": "龙腾四海",
-      "type": "焰火秀",
-      "performers": [],
-      "description": "零点焰火秀，四地联动"
+      "venue": "主会场",
+      "type": "公益短片",
+      "name": "同曲迎春",
+      "performers": ["于和伟"]
     },
     {
       "order": 22,
-      "time": "00:08",
-      "chapter": 4,
-      "name": "新的春天",
-      "type": "歌舞",
-      "performers": ["阎维文", "雷佳"],
-      "description": "青年代表参与"
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "宝岛恋歌",
+      "performers": ["胡德夫", "辛晓琪", "伊能静", "周传雄", "苏有朋", "侯佩岑", "欧阳娜娜", "陈立农"]
     },
     {
       "order": 23,
-      "time": "00:18",
-      "chapter": 4,
-      "name": "难忘今宵·2026",
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "你我经历的一刻",
+      "performers": ["王菲"]
+    },
+    {
+      "order": 24,
+      "venue": "主会场",
+      "type": "魔术",
+      "name": "惊喜定格",
+      "performers": ["邓男子"]
+    },
+    {
+      "order": 25,
+      "venue": "黑龙江哈尔滨分会场",
       "type": "歌舞",
-      "performers": ["全体演员"],
+      "name": "冰雪暖世界",
+      "performers": ["宋佳", "韩庚", "高进", "乔杉", "郭洪泽", "王勉", "孙千", "王赫野", "王男", "曾慕梅"],
+      "special_guests": ["张昊", "王冰玉", "张虹", "曹颀婧"],
+      "conductor": ["汤沐海"],
+      "orchestra": ["哈尔滨交响乐团"],
+      "ballet": ["哈尔滨芭蕾舞团"]
+    },
+    {
+      "order": 26,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "歌曲",
+      "name": "许我再少年",
+      "performers": ["魏晨", "刘宇宁"]
+    },
+    {
+      "order": 27,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "戏曲",
+      "name": "春晖满梨园",
+      "performers": ["张幼麟", "楼胜", "李延柯", "孟广禄", "刘天骄", "王嘉阳", "张佳春", "李晨", "田苗苗", "李树建", "杜永真", "张琳", "李旭丹", "曾小敏", "黄文意", "谷文月", "曾瑾辰", "夏岩溪", "田牧", "鲍陈热", "陈艺心", "杨帆", "谭孝曾", "吴响军", "裘识", "杨思坤"]
+    },
+    {
+      "order": 28,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "微音乐剧",
+      "name": "每道光",
+      "performers": ["王铮亮", "汪苏泷", "李现", "世界技能大赛中国获奖选手代表"]
+    },
+    {
+      "order": 29,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "歌曲",
+      "name": "小家年年",
+      "performers": ["马鑫芮", "徐铭聪", "朱正怀", "李晓青"],
+      "special_performers": ["苏州评弹学校"]
+    },
+    {
+      "order": 30,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "公益广告",
+      "name": "回家吃饭",
+      "performers": []
+    },
+    {
+      "order": 31,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "贺岁微电影",
+      "name": "我最难忘的今宵",
+      "performers": ["沈腾", "马丽", "银河通用"]
+    },
+    {
+      "order": 32,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "歌曲",
+      "name": "别来无恙",
+      "performers": ["任素汐", "毛不易"]
+    },
+    {
+      "order": 33,
+      "venue": "黑龙江哈尔滨分会场",
+      "type": "小品",
+      "name": "又来了",
+      "performers": ["王宏坤", "大锁", "管乐", "尚大庆", "武宾", "孙仲秋", "冯阳", "谢潇键"]
+    },
+    {
+      "order": 34,
+      "venue": "安徽合肥分会场",
+      "type": "综合表演",
+      "name": "合韵满江淮",
+      "performers": ["黄轩", "陈晓", "马思纯"],
+      "singers": ["张远", "李纯", "王栎鑫", "周雨彤", "张兴朝"],
+      "opera_performers": ["吴琼", "韩再芬", "斓曦", "李梅", "曾昭娟", "蔡浙飞", "贾文龙", "万晓慧", "孙娟", "汪育殊", "李晓旭", "龚莉莉", "梁静"],
+      "dancers": ["郑业成", "王方晴"],
+      "special_guests": ["万元熙", "吴伟仁", "潘建伟"]
+    },
+    {
+      "order": 35,
+      "venue": "安徽合肥分会场",
+      "type": "歌曲",
+      "name": "梦底",
+      "performers": ["海来阿木"],
+      "special_performers": ["刘浩存"]
+    },
+    {
+      "order": 36,
+      "venue": "安徽合肥分会场",
+      "type": "舞蹈",
+      "name": "踏地为节",
+      "performers": ["中央民族大学", "中央民族歌舞团", "匈牙利国家民族歌舞团", "西班牙赫苏斯·卡尔莫纳舞团"]
+    },
+    {
+      "order": 37,
+      "venue": "安徽合肥分会场",
+      "type": "歌曲",
+      "name": "快乐小马",
+      "performers": ["王安宇", "黄子弘凡", "范丞丞", "胡先煦"]
+    },
+    {
+      "order": 38,
+      "venue": "安徽合肥分会场",
+      "type": "公益广告",
+      "name": "马年说马",
+      "performers": []
+    },
+    {
+      "order": 39,
+      "venue": "安徽合肥分会场",
+      "type": "创意杂技",
+      "name": "绘新春",
+      "performers": ["Jonglissimo杂技团 (奥地利)", "河南省杂技集团", "濮阳市杂技艺术学校"]
+    },
+    {
+      "order": 40,
+      "venue": "安徽合肥分会场",
+      "type": "军歌",
+      "name": "战位有我在",
+      "performers": ["中国人民解放军文化艺术中心文艺轻骑队", "北京卫戍区某团"],
+      "special_guests": ["朱明朝", "李昆", "高中强", "赵静", "仲志浩"]
+    },
+    {
+      "order": 41,
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "山海寻梦",
+      "performers": ["廖昌永", "谭维维"]
+    },
+    {
+      "order": 42,
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "串门指南",
+      "performers": ["白鹿", "丁禹兮", "李昀锐", "王玉雯", "田曦薇", "毕雯珺", "宋威龙", "李兰迪"]
+    },
+    {
+      "order": 43,
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "驭风歌",
+      "performers": ["张杰"],
+      "special_performers": ["刘雯雯", "周恩旭"]
+    },
+    {
+      "order": 44,
+      "venue": "主会场",
+      "type": "小品",
+      "name": "包你满意",
+      "performers": ["沙溢", "李飞", "张泰维", "高海宝"]
+    },
+    {
+      "order": 45,
+      "venue": "主会场",
+      "type": "舞蹈",
+      "name": "追影",
+      "lead_dancer": ["张翰"],
+      "performers": ["海南省嘉积中学男子舞蹈团", "山东青年政治学院"]
+    },
+    {
+      "order": 46,
+      "venue": "主会场",
+      "type": "交响街舞",
+      "name": "新春之声",
+      "conductor": ["景焕"],
+      "special_performance": ["郭朴"],
+      "lead_dancer": ["方正华"],
+      "orchestra": ["中国爱乐乐团"],
+      "performers": ["成都厚米丝舞团", "苏州芭蕾舞团"]
+    },
+    {
+      "order": 47,
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "致爱组曲",
+      "performers": ["John Legend (美国)", "Hélène Rollès (法国)", "Westlife (爱尔兰)"]
+    },
+    {
+      "order": 48,
+      "venue": "主会场",
+      "type": "多唱法创编歌曲",
+      "name": "恭喜恭喜",
+      "performers": ["李楠", "李炜铃", "张怡", "梁凡", "李勇君", "范雪妍", "朱贺", "都楞扎那", "桑田", "汪晨蕊", "黄俊鹏", "顾文梦", "刘莉旻", "王凯琪", "曾比特", "高瑞璇", "冯浩然", "陈佳妮", "严小北", "邓超然", "麦嘉欣", "罗媛元", "张功浩", "王饼", "刘雅妮", "郑心烨", "刘鑫宇", "刘姝霄"]
+    },
+    {
+      "order": 49,
+      "venue": "主会场",
+      "type": "歌曲",
+      "name": "难忘今宵",
+      "performers": ["北京爱乐合唱团", "中央广播电视总台银河少年电视艺术团", "中国残疾人艺术团"],
       "description": "压轴合唱，春晚传统结束曲目"
     }
-  ]
+  ],
+  "statistics": {
+    "total_programs": 49,
+    "by_venue": {
+      "主会场": 32,
+      "四川宜宾分会场": 1,
+      "浙江义乌分会场": 5,
+      "黑龙江哈尔滨分会场": 9,
+      "安徽合肥分会场": 7
+    }
+  },
+  "last_updated": "2026-02-16"
 }
